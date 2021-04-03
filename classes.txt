@@ -1,0 +1,9 @@
+LAB:p b f v m ɱ ɸ ʙ ɓ β ʋ ⱱ
+COR:t d θ ð n r ɾ s z ɬ ɮ ɹ l ʃ ʒ ʈ ɳ ɽ ʂ ʐ ɻ ɭ
+DOR:c ɟ ɲ ç ʝ j ʎ k g ŋ x ɣ ɰ ʟ q ɢ ɴ ʀ χ ʁ
+LAR:ħ ʕ ʔ h ɦ ʡ
+strident:s z ʃ ʒ f v t͡ʃ d͡ʒ t͡s ʐ ʑ ʂ ⱱ
+sonorant:m ɱ n ŋ ɳ ɲ ɴ i e o u a ɑ æ ɐ ɑ̃ ə ɚ ɵ ɘ ɛ ɜ ɝ ɛ̃ ɞ ɪ ɨ ɪ̈ ʊ ʉ ɔ œ ɒ ɔ̃ ɶ ø ɯ ʋ j ɰ ʙ ⱱ l r ɾ ɹ ʁ ʀ ɻ ɽ ɺ ɫ ɭ ʟ
+obsturant:p b t d ʈ ɖ	c ɟ k ɡ q ɢ ʔ ɸ β f v θ ð s z ʃ ʒ	ʂ ʐ ç ʝ x ɣ	χ ʁ ħ ʕ h ɦ t͡ʃ d͡ʒ t͡s ɮ 
+rhotics: r ɾ ɹ ʁ ʀ ɻ ɽ ɺ
+liquids: l r ɾ ɹ ʁ ʀ ɻ ɽ ɺ ɫ ɭ ʟ
